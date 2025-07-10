@@ -6,8 +6,6 @@
 
 🎨 Complemento mis desarrollos con herramientas de diseño como **Figma** y conocimientos en **Tailwind CSS** y **Bootstrap**.
 
-📊 Actualmente exploro herramientas para **visualización de datos** como **Chart.js**, **Recharts** y **D3.js**.
-
 ---
 
 ## 🚀 Tecnologías que manejo:
@@ -53,5 +51,7 @@
 Puedes visitar mi portafolio:  
 🔗 [portafolio-dairo-santana.vercel.app](https://portafolio-dairo-santana.vercel.app)
 
-O conectar conmigo en LinkedIn:  
+Conectar conmigo en LinkedIn:  
 🔗 [linkedin.com/in/dairo-estiven-santana-charry-236657250](https://www.linkedin.com/in/dairo-estiven-santana-charry-236657250/)
+
+ También puedes escribirme a: [contactdairocharry@gmail.com](mailto:contactdairocharry@gmail.com)
